@@ -1,0 +1,222 @@
+(base) randy@P650-RGRERA:~/Documents/Pina pay project PoC image$ ls
+ 1-xbeer-steins.gif
+ 1-xbeer-steins-pina1.gif
+ 1-xbeer-steins-pina1.xcf
+ 1-xbeer-steins-pina2.gif
+ 1-xbeer-steins.xcf
+'2017 Findex full report_chapter2 (1).pdf'
+ 2nd_TL__image25_x_915.jpg
+ 60072dbb32d416d6b3806935_5f1596b12bcc0800f3dcadcd_pox.pdf
+ 8f34ce39-ALEX-dao.svg
+'9 Rust authentication libraries that are ready for production - LogRocket Blog.pdf'
+ Agile_Project_Management.mpp
+'alchemist NFT-2.jpg'
+'alchemist NFT-2.png'
+'alchemist NFT-2.xcf'
+'alchemist NFT.jpg'
+'alchemist NFT.png'
+'alchemist NFT.xcf'
+ balena-etcher-electron-1.5.122-linux-x64
+ balena-etcher-electron-1.5.122-linux-x64.zip
+ bar-server-10-beer-steins.gif
+ bea-acs_2015_v12-3-17-2020.ods
+ bitcoin.pdf
+'blink-ev-charging-2021-07-16 11-47-18.png'
+ bob-nft
+'business solutions Pina Pay.docx'
+'business solutions Pina Pay.odt'
+'business solutions Pina Pay.pdf'
+ Capitain-haiti.jpeg
+'Captain Haiti linkedin.docx'
+'Captain Haiti linkedin.odt'
+'Captain Haiti linkedin.pdf'
+ Centeral_system_vs_Blockchain_system.jpeg
+'ChefStop Token.pdf'
+'clover(PoS-1)_20210820_121255.jpg'
+'clover(PoS-2)_20210820_121330.jpg'
+'Collection of recipe cards.jpeg'
+ contribute-StackOS-cloud.svg
+'cover o-zone triple play tax break(2).odt'
+ d-lish-logo.jpg
+ d-lish-logo.png
+ d-lish-logo.xcf
+ d-lish-main.zip
+ docker-images-stackOS.svg
+'docker pull eosio - ci.odt'
+'docker pull stackos - neo-frontier-app.odt'
+ eos-2.1.0.zip
+ eosio_2.1.0-1-ubuntu-20.04_amd64.deb
+'Ethereum testnet-diag-0_osoWcITMrpxK1uaz.png'
+ ETH-network-stats-3022-2021-08-18_17-36-20.mkv
+ explorer.png
+'ford-smart-hackathon-2021-07-30 11-45-10.png'
+ github_copilot.png
+ gmlc_4.2.2_application_final_20210810.docx
+ green-market-cafe-qr-code.png
+ Hackathon-_Moralis.io_Details
+ Hackathon-_Moralis.io_Details.zip
+'hello-dot-miami-99-dollar-1yr-2021-09-07 10-53-19.png'
+'hello-dot-miami-99-dollar-1yr-(2)-2021-09-07 10-54-21.jpg'
+'hello-dot-miami-99-dollar-1yr-(2)-2021-09-07 10-54-21.png'
+'hello-dot-miami-99-dollar-1yr-(2)-2021-09-07 10-54-21.xcf'
+ hiro-stacks-wallet-readme.png
+'Hiro Wallet for Linux Stacks.odt'
+'host-blink-EV-2021-07-16 11-54-35.png'
+'How to Mine MiamiCoin (QuickStart) _ by Alex Rudloff _ Aug, 2021 _ Medium.pdf'
+'Implementation of the Stacks 2-0 wallet for Desktop.odt'
+'Infrastructure, Hilton Hotels points API, Blink EV Charging Station.docx'
+'Infrastructure, Hilton Hotels points API, Blink EV Charging Station.odt'
+'Infrastructure, Hilton Hotels points API, Blink EV Charging Station.pdf'
+'Infrastructure , PinaPay-5th-draft.docx'
+'Infrastructure , PinaPay-5th-draft.odt'
+'Infrastructure , PinaPay-5th-draft.pdf'
+'Infrastructure , PinaPay-6th-draft.odt'
+'Infrastructure , PinaPay-7th-draft.docx'
+'Infrastructure , PinaPay-7th-draft.odt'
+'Infrastructure , PinaPay-IP 3rd-draft.docx'
+'Infrastructure , PinaPay-IP 3rd-draft.odt'
+'Infrastructure , PinaPay-IP 3rd-draft.pdf'
+'Infrastructure , PinaPay-IP 4th-draft.docx'
+'Infrastructure , PinaPay-IP 4th-draft.html'
+'Infrastructure , PinaPay-IP 4th-draft.odt'
+'Infrastructure , PinaPay-IP 4th-draft.pdf'
+'Infrastructure , PinaPay-IP no4.docx'
+'Infrastructure , PinaPay-IP no4.pdf'
+ ipfs-desktop-0.16.2-linux-amd64.deb
+ IPFS_index
+'Irina Karagyaur.jpg'
+ landing_pages_TL__image.png
+ letter-writing-correspondence1974x1052.jpg
+'lighting node 1ml El salvador.odt'
+'lighting node MIami 1ml 33127.odt'
+'LightingNodePRO_Install_Guide (1).pdf'
+'line-item_20210622-110715_(1).jpg'
+'line-item_20210622-110715_(1).png'
+'line-item_20210622-110715_(2).jpg'
+'line-item_20210622-110715_(3).jpg'
+ line-item_20210622-110715_Brave.jpg
+ line-item_20210622-110715_Brave.png
+ line-item_20210622-110715_Brave.xcf
+'linkedin profile Randy.odt'
+'linkedin profile Sartaj-ahuja.docx'
+'linkedin profile Sartaj-ahuja.odt'
+'linkedin profile Sartaj-ahuja.pdf'
+ logo-dark-keep-it-haitina.png
+ logo-horizontal.svg
+'Mail - Randy Middleton - Outlook.pdf'
+'miami images'
+'miami images.zip'
+ Moralis_Hackathon_ParticipantsGuide.pdf
+'MVP-Follow-up to Dev Meeting with Sartaj  chat text.docx'
+'open-node(3)2021-09-11 19-46-02.png'
+'open-node(4) 2021-09-11 19-46-51.png'
+'open-node(5) 2021-09-11 19-47-50.png'
+'open-node(6)2021-09-11 19-48-54.png'
+'open-node(7)2021-09-11 19-49-43.png'
+ OpenNode-LTC-host-payment--2021-09-07_18-13-27.mkv
+'OpenNode updates.pdf'
+'Opera Snapshot_2021-07-02_083302_www.pinapay.io.png'
+'Opera Snapshot_2021-07-02_095350_www.nordstrom.com.png'
+'Opera Snapshot_2021-07-02_114344_www.nordstrom.com.png'
+'Opera Snapshot_2021-07-02_114344_www.nordstrom.com.xcf'
+ pen_1.tif
+'pina-landing-page-1-2021-07-02 08-07-06.png'
+"pina pay address and URLs11-sept'21.odt"
+'pina pay address and URLs.docx'
+'pina pay address and URLs.odt'
+'pina pay address and URLs.pdf'
+ PinaPay-CBDC-Accenture.docx
+ PinaPay-CBDC-Accenture.odt
+ PinaPay-CBDC-Accenture.pdf
+'PinaPay -Define-ESG.odt'
+'PiñaPay & D-Lish - Roadmaps.odt'
+'pinapay-IPFS-(4)qr-code.png'
+'pina-pay-landing-page-manager-page(3rd draft).docx'
+'pina-pay-landing-page-manager-page(3rd draft).odt'
+'pina-pay-landing-page-manager-page(3rd draft).pdf'
+ pina-pay-landing-page-manager-page.docx
+ pina-pay-landing-page-manager-page.odt
+ pina-pay-landing-page-manager-page.pdf
+'pinapay-logo-horizontal -qr-code(2).svg'
+'pinapay-logo-horizontal -qr-code.png'
+ pina-pay.miami
+'Pinapay NFT ERC721 URLs.odt'
+'Pina pay project google matadata.docx'
+'Pina pay project PoC.odt'
+"PinaPay's URL's 26-July'21 7am.odt"
+"PinaPay's URL's 7-Oct'21.html"
+ PinaPay_WhitePaper.pdf
+'Pina Pitch Deck 2021.pdf'
+ pinia-pay-logo-sunglases.jpg
+ pinia-pay-logo-sunglases.xcf
+'plastic bank little haiti 2021-09-03 13-07-05.png'
+'Plastic Bank Little Haiti Miami.docx'
+'Plastic Bank Little Haiti Miami.odt'
+'Plastic Bank Little Haiti Miami.pdf'
+'plastic bank operates in Haiti 2021-09-03 13-14-58.png'
+ pox.pdf
+ private-BTC-KzB84trRAmHCTmxAdDH8gifGSX4zZwcFFrFkU1xKJrsrw8WJ2prm.png
+ private-BTC-L5dKKFwT6yj3vwcuchV6w9ZRXaUS5aKpPKfj8D7SYnmv11eXwBif.png
+ PUI24BLU_2000x.jpg
+'questions for 419Aug'\''21(TringApps).docx'
+'questions for 419Aug'\''21(TringApps).odt'
+'questions for 419Aug'\''21(TringApps).pdf'
+'questions for 4-Aug'\''21(Randy).odt'
+'Randy Middleton.pdf'
+ recipe.png
+'Regional Central bank to issue cryptocurrency-4th-draft.odt'
+'Regional Central bank to issue cryptocurrency-4th-draft.pdf'
+'Regional Central bank to issue cryptocurrency.odt'
+'Regional Central bank to issue cryptocurrency.pdf'
+ Re__PiñaTalks_Livestream_Episode-_Irina_Karagyaur.zip
+'Santaj-Possible Roadmaps.docx'
+'SAP Activate Methodology.pdf'
+ Sartaj-linkedin-video-record-2021-08-09_10-18-37.mkv
+'Sartaj-n-(1) his team 2021-08-04 09-39-22.png'
+'Sartaj -n-(2) his team2021-08-04 09-34-14.png'
+'Screen Recording 2021-06-15 at 07.55.55.17 PM.mp4'
+ Screenshot_20210622-110715_Brave.jpg
+ Screenshot_20210622-110715_Brave.png
+ Screenshot_20210622-110715_Brave.xcf
+'Screenshot from 2021-07-19 11-19-27.png'
+'Screenshot from 2021-07-19 11-20-03.png'
+'Screenshot from 2021-07-19 11-21-18.png'
+'Screenshot from 2021-08-04 09-34-14.png'
+'Screenshot from 2021-08-04 09-39-22.png'
+'SDLC- Activate Methodology for-pinapay-PrjPlan.xlsx'
+'SDLC- Org-chart-team-for-pinapay-PrjPlan-3rd-draft.xlsx'
+'SDLC- Org-chart-team-for-pinapay-PrjPlan.xlsx'
+ share-BTC-1Agiv49RJ6evyhJkHs6fN6LVfA6orab.png
+ share-BTC-1CvhB9hEXBJDd8BWLeknixqXUQU.png
+ slyvia-path-rolling-pinimage.jpg
+ smart-wallet-redeem.png
+'smart wallet UI-UX APPLICATION.docx'
+'smart wallet UI-UX APPLICATION.odt'
+'smart wallet UI-UX APPLICATION.pdf'
+ Software_Development_Plan.mpp
+'SOW - Crypto.pdf'
+ stacks-wallet.mainnet.v4.5.0.deb
+ Strike-bitcoin-indy-500-race-car.jpeg
+ ta_to_state_pucs_webinar_20210826.pdf
+ teams_1.4.00.13653_amd64.deb
+'teams-chapms-c-2021-07-26 13-02-50.png'
+'teams-invite-2021-07-26 13-04-31.png'
+'teams-project-app-addin-2021-07-26 13-11-03.png'
+'Technical Assistance to State Public Utility Commissions.odt'
+ tee-shirt-2021-07-02_114344_www.nordstrom.com.jpg
+ tee-shirt-pina-pay-2021-07-02_114344_www.nordstrom.com.jpg
+ tee-shirt-pina-pay-2021-07-02_114344_www.nordstrom.com.xcf
+ tee-shirt-pina-pay.pdf
+ thumbnail_Screenshot_20210622-110715_Brave.jpg
+ umbrel-os-v0.4.1.zip
+ URLs_PinaPay
+'Valuation of NFTs.docx'
+'Valuation of NFTs.odt'
+'Valuation of NFTs.pdf'
+ visual-8-12.png
+'Walmart will issue its own cryptocurrency.odt'
+'Walmart will issue its own cryptocurrency.pdf'
+'What determines  Valuation of ICO, ROI, and MVP.odt'
+(base) randy@P650-RGRERA:~/Documents/Pina pay project PoC image$ 
+
+
