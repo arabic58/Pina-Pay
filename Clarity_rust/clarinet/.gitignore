@@ -1,0 +1,5 @@
+/target
+/xtask/target
+.DS_Store
+clarinet.code-workspace
+history.txt
